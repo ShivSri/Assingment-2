@@ -1,0 +1,45 @@
+body{
+  background-color: #FFCC00;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-image: url("pat.png");
+}
+h1{
+  text-align: center;
+}
+.move{
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.active{
+  padding-bottom: 5px;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    border-right: 8px solid white;
+  background-color: white;
+  margin: 1px 1px 1px 1px;
+  overflow:auto;
+  color: blue;
+  text-decoration: none;
+  vertical-align: middle;
+}
+.all{
+  border: solid white 20px;
+  background-color: white;
+  overflow: auto;
+}
+
+.a {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%;
+
+}
+.bolt{
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 30px;
+}
